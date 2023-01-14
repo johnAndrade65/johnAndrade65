@@ -6,7 +6,7 @@
 
 ### Technologies I use in my daily life
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnAndrade65&layout=compact)](https://github.com/johnAndrade65/github-readme-stats)
-### Technologies I use in my daily life
+### GitHub Status
 ![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnAndrade65&show_icons=true&theme=radical)
 
 <h4>Front-End Skills</h4>
