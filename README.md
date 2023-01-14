@@ -4,11 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-ab5706229/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andradevinicius65/)
 
-![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnAndrade65&show_icons=true&theme=radical)
-
 ### Technologies I use in my daily life
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div "display: flex"><br/>>
+  ![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnAndrade65&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h4>Front-End Skills</h4>
 <div style="display: inline_block"><br/>
