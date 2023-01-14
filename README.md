@@ -5,8 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andradevinicius65/)
 
 ### Technologies I use in my daily life
-  ![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnAndrade65&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnAndrade65&layout=compact)](https://github.com/johnAndrade65/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnAndrade65&layout=compact)](https://github.com/johnAndrade65/github-readme-stats)
+![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnAndrade65&show_icons=true&theme=radical)
 
 <h4>Front-End Skills</h4>
 <div style="display: inline_block"><br/>
