@@ -27,5 +27,5 @@
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
 
-### Apaixonado por tecnologia e por melhorar a vida das pessoas através da tecnologia!.❤❤
+### Apaixonado por programação e por melhorar a vida das pessoas através da tecnologia!.❤❤
 
