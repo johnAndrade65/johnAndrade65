@@ -1,4 +1,4 @@
-## Bem vindo(a), meu nome é Vinicius Andrade e sou Dev Full Stack .NET! 👨🏻‍💻
+## Bem vindo(a) meu nome é Vinicius Andrade e sou Dev Full Stack .NET! 👨🏻‍💻
 
 <h2>Front-End Skills</h2>
 <div style="display: inline_block"><br/>
