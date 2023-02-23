@@ -21,6 +21,7 @@
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
 <br>
+
 ![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnAndrade65&show_icons=true&theme=radical)
 
 ### Apaixonado por programação e por melhorar a vida das pessoas através da tecnologia!.❤❤
