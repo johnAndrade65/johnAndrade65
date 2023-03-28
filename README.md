@@ -15,12 +15,10 @@
   <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-<br/>
 
 ![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnAndrade65&show_icons=true&theme=radical)
 
 ### Apaixonado por programação e por melhorar a vida das pessoas através da tecnologia!.❤❤
-<br/>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCloS88_0JuBdMgKxJAAcwUQ/featured)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-ab5706229/)
