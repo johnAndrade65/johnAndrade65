@@ -17,6 +17,7 @@
 </div>
 <br>
 
+
 ![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnAndrade65&show_icons=true&theme=radical)
 
 ### Apaixonado por programação e por melhorar a vida das pessoas através da tecnologia!.❤❤
